@@ -35,3 +35,6 @@ Javascript, HTML, CSS...
 
 ⚡️ Fun fact...
 
+## Authors
+
+- [@erik22l18](https://www.github.com/octokatherine)
