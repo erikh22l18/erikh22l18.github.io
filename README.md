@@ -37,4 +37,4 @@ Javascript, HTML, CSS...
 
 ## Authors
 
-- [@erik22l18](https://www.github.com/octokatherine)
+- [@erikh22l18](https://www.github.com/octokatherine)
